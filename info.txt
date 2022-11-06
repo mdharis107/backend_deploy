@@ -1,0 +1,7 @@
+http://localhost:8080/
+http://localhost:8080/signup
+http://localhost:8080/login
+http://localhost:8080/user/getProfile -GET
+http://localhost:8080/user/calculateBMI - POST
+http://localhost:8080/user/getCalculation - GET
+http://localhost:8080/
